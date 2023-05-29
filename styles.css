@@ -14,6 +14,7 @@
 }
 .child-one #name,.child-two #name{
 	text-align:right;
+	font-style:italic;
 }
 h1{
 	margin:10px;
